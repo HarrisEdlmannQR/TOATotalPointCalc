@@ -6,16 +6,12 @@ A calculator to estimate the total number of points accumulated across all **Tom
 - Estimates **total points** accumulated across all TOA raids.  
 - Provides an **expected purple drop rate** based on observations.  
 - Uses **drop log data** to improve accuracy.
-
----
-
+  
 ## 📂 Requirements  
 1. **Edit `config.yaml`** – Open the `config.yaml` file and update the configurations as needed.  
 2. **Provide observation data** – You'll need to include drop log data. Ideally, this data should account for a **significant portion of your total TOA kill count (KC)** to ensure accuracy.  
 
 The accuracy of the calculator depends on the quality of the **drop observations** provided. The more complete and representative your data, the better the results.  
-
----
 
 ## ⚠️ Assumptions & Limitations  
 
@@ -30,8 +26,6 @@ The accuracy of the calculator depends on the quality of the **drop observations
 - **Example:** If your logged observations were all done with **Pathseeker & Walk the Path**, the tool assumes **all** your TOA runs used these same invocations.  
 - **Impact:** If you run different invocation setups, your total points may be **slightly higher or lower** than actual values.  
 - 📌 *Tip:* To improve accuracy, ensure your logged data matches your commonly used invocation setup.  
-
----
 
 ## 🛠️ Future Enhancements  
 - **Implement team scaling calculations** to support multi-player TOA runs.  
