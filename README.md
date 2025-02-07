@@ -31,10 +31,9 @@ Your sample drop data is compared to simulated drop data for a range of raid lev
 - **Impact:** If you run different path invocation setups, your total points may be **slightly higher or lower** than actual values depending on if you ran easier or harder path invos respectively.
 - 🚀 *Future Improvment:* Allow users to configure a rough estimate for what proportion of their **KC** was done in certain path invo setups.
 
-### 3️⃣ **Deathless**  
+### 3️⃣ **Deathless Runs**  
 - The tool assumes **all of your TOA kill count (KC) was completed deathless**.   
-- **Impact:** Obviously deaths will reduce your points
-- 🚀 *Future Improvment:* Allow users to configure a rough estimate for what proportion of their **KC** was done in certain path invo setups.
+- **Impact:** Deaths will reduce overall points and so your total points will be **slightly overestimated**.
 
 ## 🛠️ Future Enhancements  
 - **Implement team scaling calculations** to support multi-player TOA runs.  
