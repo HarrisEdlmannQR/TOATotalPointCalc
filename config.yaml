@@ -1,0 +1,41 @@
+# Input your path invocations
+WTP_INVO: N           # Y if Walk the Path is active, N otherwise
+INITIAL_PATH_INVO: 0  # None = 0, Pathseeker = 1, Pathfinder = 2, Pathmaster = 3
+
+# Input your observed kc
+KC: 223
+
+# Input your observations
+OBSERVATIONS:
+  {
+    # Format is, "item_name": quantity_dropped
+    "Coins": 527792,
+    "Death rune": 38705,
+    "Soul rune": 13109,
+    "Gold ore": 7430,
+    "Dragon dart tip": 5972,
+    "Mahogany logs": 4153,
+    "Sapphire": 2708,
+    "Emerald": 1853,
+    "Gold bar": 1828,
+    "Potato cactus": 2323,
+    "Raw shark": 1460,
+    "Ruby": 1526,
+    "Diamond": 1762,
+    "Raw manta ray": 1596,
+    "Cactus spine": 814,
+    "Dragonstone": 1415,
+    "Battlestaff": 430,
+    "Coconut milk": 637,
+    "Lily of the sands": 512,
+    "Toadflax seed": 403,
+    "Ranarr seed": 379,
+    "Torstol seed": 282,
+    "Snapdragon seed": 190,
+    "Dragon med helm": 119,
+    "Magic seed": 53,
+    "Blood essence": 58,
+    "Cache of runes": 23,
+    "Purple Count": 12,
+    "Total Partisan Gems and Thread": 9,
+  }
